@@ -1,6 +1,6 @@
 # NLP-Vaccination-Sentiment-Analysis: Decoding Twitter's Pulse on COVID-19 Vaccination
 
-![COVID19](Screenshots\img_covid.png)
+![COVID19](https://github.com/Faith-theAnalyst/COVID19_Sentiment-Analysis/blob/main/Screenshots/img_covid.png)
 
 Welcome to the hub of sentiment analysis on Twitter's chatter about COVID-19 vaccinations! 🌐 This repository is your ticket to the Zindi NLP Challenge - "To Vaccinate or Not to Vaccinate," where we unravel the sentiments (positive, neutral, negative) hidden in Twitter posts discussing vaccination topics. Through a meticulous analysis of public sentiment, the solution aspires to assist public health organizations and policymakers in formulating impactful strategies for vaccine communication and promotion.
 
